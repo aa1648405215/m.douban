@@ -60,7 +60,7 @@ export default{
 		var _this = this
 		this.$http.get('./data/mobileApp.json')
 		.then((res)=>{
-			console.log(res)
+			//console.log(res)
 			_this.mymoblist = res.data.mymoblist
 			_this.mymoblist2 = res.data.mymoblist2
 		})

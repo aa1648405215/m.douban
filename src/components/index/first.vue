@@ -39,13 +39,8 @@
 </template>  
 
 <script>
-	import vheader from './header.vue'
-//export default {
-//name: 'app',
-//components:{
-//		'v-header':vheader
-//	}	
-//}
+import vheader from './header.vue'
+
 export default{
 	components:{
 		'v-header':vheader
@@ -81,10 +76,10 @@ export default{
 			
 			var main = document.getElementsByClassName('main');
 			var mainParent = main[0].parentNode
-			console.log(mainParent)
-			console.log(main);
+			//console.log(mainParent)
+			//console.log(main);
 			var a = main[5].style.backgroundImage;
-			console.log(a);
+			//console.log(a);
 			for(var i=0;i<main.length;i++){
 				if(main[i].style.backgroundImage=='url("")'){
 					main[i].parentNode.style.display='none';

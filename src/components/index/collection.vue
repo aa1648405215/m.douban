@@ -60,7 +60,7 @@ export default{
 		var _this = this
 		this.$http.get('./data/collection.json')
 		.then((res)=>{
-			console.log(res)
+			//console.log(res)
 			_this.collectlist = res.data.collectlist
 			_this.collectlist2 = res.data.collectlist2
 		})

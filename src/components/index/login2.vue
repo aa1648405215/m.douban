@@ -46,7 +46,7 @@
 		</section>
 		<mt-popup v-model="popupVisible" popup-transition="popup-fade"> <!--v-show="isshow"-->
 	        <div @click="sendEmail"  class="meBox1">
-	            <span>请输入正确的邮箱或手机号</span>
+	            <span>无效的邮箱或手机号</span>
 	        </div>
 	    </mt-popup>
 	</div>

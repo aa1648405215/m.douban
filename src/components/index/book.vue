@@ -131,8 +131,8 @@ export default{
 		var _this = this;
 		this.$http.get('./data/book.json')
 		.then((res)=>{
-			console.log(_this)
-			console.log(res)
+			//console.log(_this)
+			//console.log(res)
 			_this.booklist = res.data.booklist
 			_this.booklist3 = res.data.booklist3
 			_this.booklist4 = res.data.booklist4
@@ -144,7 +144,7 @@ export default{
 		.finally((f)=>{
 			var h = document.getElementsByClassName('book4SwiperWrapper')[0];
 			var book4li=document.getElementsByClassName('book4li')[4];
-			console.log(book4li);
+			//console.log(book4li);
 			var d = document.createElement('li');
 			d.style.display = 'block';
 			h.insertBefore(d,book4li);

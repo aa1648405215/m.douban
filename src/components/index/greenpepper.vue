@@ -103,9 +103,9 @@ export default{
 	},
 	methods:{
 		ww(index){
-			console.log(index)
+			//console.log(index)
 			this.activeClass = index;
-			console.log(this.activeClass)
+			//console.log(this.activeClass)
 		}
 },
 	data(){

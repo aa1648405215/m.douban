@@ -184,8 +184,8 @@ export default {
 	  	var _this = this;
         this.$http.get('./data/doubanTime.json')
         .then(function(res){
-          console.log(_this)
-          console.log(res)
+          //console.log(_this)
+          //console.log(res)
           _this.time2list=res.data.time2list
           _this.time3list=res.data.time3list
           _this.time4list=res.data.time4list
