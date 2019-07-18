@@ -148,8 +148,9 @@ export default{
 	margin: 0;
 	float: left;
 	/*background: yellow;*/
-	width: 40.5%;
+	width: 50%;
 	padding-right: 18px;
+	box-sizing: border-box;
 	border-top: solid 1px #eee;
     border-right: solid 1px #eee;
 
@@ -157,6 +158,9 @@ export default{
 .mobileSec2Ul li:nth-child(even){
 	border-right: none;
 	padding-left: 18px;
+}
+.mobileSec2Ul li:nth-child(13),.mobileSec2Ul li:last-child{
+	border-bottom: solid 1px #eee;
 }
 .mobileSec2Ul li a{
 	font-size:14px ;

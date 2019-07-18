@@ -18,7 +18,7 @@
 			<router-link to="#" @click.native="sendEmail">登录</router-link>
 			<ul>
 				<li>
-					<router-link to="#">
+					<router-link to="/login1">
 						<p>免密码登录</p>
 					</router-link>
 					<router-link to="#">

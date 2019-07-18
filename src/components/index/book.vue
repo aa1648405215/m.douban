@@ -136,18 +136,21 @@ export default{
 			_this.booklist = res.data.booklist
 			_this.booklist3 = res.data.booklist3
 			_this.booklist4 = res.data.booklist4
-			_this.booklist5 = res.data.booklist5				
+			_this.booklist5 = res.data.booklist5
+			
+			
+			
 		})
 		.catch(()=>{
 			
 		})
-		.finally((f)=>{
-			var h = document.getElementsByClassName('book4SwiperWrapper')[0];
-			var book4li=document.getElementsByClassName('book4li')[4];
-			//console.log(book4li);
-			var d = document.createElement('li');
-			d.style.display = 'block';
-			h.insertBefore(d,book4li);
+		.finally(()=>{
+//			var h = document.getElementsByClassName('book4SwiperWrapper')[0];
+//			var book4li=document.getElementsByClassName('book4li')[4];
+//			console.log(book4li);
+//			var d = document.createElement('li');
+//			d.style.display = 'block';
+//			h.insertBefore(d,book4li);			
 		})
 		
 		
@@ -287,14 +290,14 @@ export default{
 }
 .book4Swiper{
 	width: 100%;
-	margin-bottom: -webkit-calc(-20px);
-	
+	overflow-x: auto;
+	margin-bottom: -webkit-calc(-20px);	
 }
 .book4SwiperWrapper{
-	width: 100%;
+	width: 160%;
 	list-style: none;
-	overflow-x: auto;
-	white-space: nowrap;
+	/*overflow-x: auto;
+	white-space: nowrap;*/
     padding: 15px 18px 43px 10px;
 	
 }

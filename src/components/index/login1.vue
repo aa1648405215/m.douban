@@ -12,10 +12,10 @@
 		</section>
 		<section  class="login2">
 			<span>+86</span>
-			<input type="text" id="" value="" placeholder="手机号"/>
-			<input type="text" id="" value="" placeholder="手机验证码"/>
-			<router-link to="#">获取验证码</router-link>
-			<router-link to="#">登录</router-link>
+			<input type="text" id="phone" placeholder="手机号"/>
+			<input type="text" id="code" placeholder="手机验证码"/>
+			<router-link to="#" id="getCode" @click.native="timecode">获取验证码</router-link>
+			<router-link to="#" @click.native="checkphone">登录</router-link>
 			<ul>
 				<li>
 					<router-link to="/login2">
@@ -40,10 +40,74 @@
 				</li>
 			</ul>
 		</section>
+		<mt-popup v-model="popupVisible1" popup-transition="popup-fade"> <!--v-show="isshow"-->
+	        <div @click="checkphone"  class="meBox1">
+	            <span>无效的手机号</span>
+	        </div>
+	    </mt-popup>
+	    <mt-popup v-model="popupVisible2" popup-transition="popup-fade"> <!--v-show="isshow"-->
+	        <div @click="checkphone"  class="meBox1">
+	            <span>请输入手机号</span>
+	        </div>
+	    </mt-popup>
 	</div>
 </template>
 
 <script>
+export default{
+	data(){
+		return{
+			popupVisible1:false,
+			popupVisible2:false
+			//isshow:false
+		}		
+	},
+	mounted(){
+
+	},
+	methods:{
+		
+		timecode(){
+//			var codetime = window.setTimeout(()=>{
+				var getcode = document.getElementById('getCode')
+				  var num = 30
+				  var timer = setInterval(function () {
+				    num--
+				    getcode.innerHTML = num + '秒后重新获取'
+				    getcode.style.color = '#ccc'
+				    getcode.disabled = ' disabled'
+				    if (num === 0) {
+				      getcode.disabled = ''
+				      getcode.style.color = '#42b983'
+				      getcode.innerHTML = '获取验证码'
+				      clearInterval(timer)
+				    }
+				  }, 1000)
+//			})
+		},
+		//验证手机号
+		checkphone(){
+			var getphone = document.getElementById('phone')
+			//console.log(getphone.value)
+			var valphone = getphone.value
+			var reg=11 && /^((13|14|15|17|18)[0-9]{1}\d{8})$/;
+            if(valphone==''){
+               //alert("请输入手机号");
+               this.popupVisible2 = !this.popupVisible2
+				setTimeout(()=>{
+					this.popupVisible2 = false;
+				},3000)
+            }else if(!reg.test(valphone)){
+             	//alert("无效手机号，请重新输入");
+				this.popupVisible1 = !this.popupVisible1
+				setTimeout(()=>{
+					this.popupVisible1 = false;
+				},3000)
+            }
+			
+		}
+	}
+}
 </script>
 
 <style scoped>
@@ -165,5 +229,23 @@
 	/*border: 1px solid;*/
 	/*border-radius: 50%;*/
 	/*border-color: rgba(186,186,186,.5);*/
+}
+/*******弹出框*********/
+.login>>>.v-modal{
+	display: none;
+	/*width: 100px;
+	height: 100px;*/
+}
+.meBox1{
+	background-color: red;
+	border: 1px solid red;
+	line-height: 47px;
+	/*padding: 0 5px;*/
+	border-radius: 10px;
+	font-size: 15px;
+	color: white;
+}
+.login>>>.mint-popup{
+	top: 15%;
 }
 </style>

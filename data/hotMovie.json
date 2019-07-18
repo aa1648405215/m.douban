@@ -2,7 +2,7 @@
 	"hotlist":[
 	   		{
 	   			"id":0,
-	   			"srcImg":"./src/assets/img/hotMovieImg/1hm.jpg",
+	   			"srcImg":"./data/img/hotmovieImg/1hm.jpg",
 	   			"hotTitle":"蜘蛛侠：英雄远征",
 	   			"hotStarImg":"./src/assets/img/hotMovieImg/2.png",
 	   			"hotStarImg2":"./src/assets/img/hotMovieImg/3.png",
@@ -11,7 +11,7 @@
 	   		},
 	   		{
 	   			"id":1,
-	   			"srcImg":"./src/assets/img/hotMovieImg/1hm.jpg",
+	   			"srcImg":"./data/img/hotmovieImg/2hm.jpg",
 	   			"hotTitle":"蜘蛛侠：英雄远征",
 	   			"hotStarImg":"./src/assets/img/hotMovieImg/2.png",
 	   			"hotStarImg2":"./src/assets/img/hotMovieImg/3.png",
@@ -20,7 +20,7 @@
 	   		},
 	   		{
 	   			"id":2,
-	   			"srcImg":"./src/assets/img/hotMovieImg/1hm.jpg",
+	   			"srcImg":"./data/img/hotmovieImg/3hm.jpg",
 	   			"hotTitle":"蜘蛛侠：英雄远征",
 	   			"hotStarImg":"./src/assets/img/hotMovieImg/2.png",
 	   			"hotStarImg2":"./src/assets/img/hotMovieImg/3.png",
@@ -29,7 +29,7 @@
 	   		},
 	   		{
 	   			"id":3,
-	   			"srcImg":"./src/assets/img/hotMovieImg/1hm.jpg",
+	   			"srcImg":"./data/img/hotmovieImg/4hm.jpg",
 	   			"hotTitle":"蜘蛛侠：英雄远征",
 	   			"hotStarImg":"./src/assets/img/hotMovieImg/2.png",
 	   			"hotStarImg2":"./src/assets/img/hotMovieImg/3.png",
@@ -38,7 +38,7 @@
 	   		},
 	   		{
 	   			"id":4,
-	   			"srcImg":"./src/assets/img/hotMovieImg/1hm.jpg",
+	   			"srcImg":"./data/img/hotmovieImg/5hm.jpg",
 	   			"hotTitle":"蜘蛛侠：英雄远征",
 	   			"hotStarImg":"./src/assets/img/hotMovieImg/2.png",
 	   			"hotStarImg2":"./src/assets/img/hotMovieImg/3.png",
@@ -47,7 +47,7 @@
 	   		},
 	   		{
 	   			"id":5,
-	   			"srcImg":"./src/assets/img/hotMovieImg/1hm.jpg",
+	   			"srcImg":"./data/img/hotmovieImg/6hm.jpg",
 	   			"hotTitle":"蜘蛛侠：英雄远征",
 	   			"hotStarImg":"./src/assets/img/hotMovieImg/2.png",
 	   			"hotStarImg2":"./src/assets/img/hotMovieImg/3.png",
@@ -56,7 +56,7 @@
 	   		},
 	   		{
 	   			"id":6,
-	   			"srcImg":"./src/assets/img/hotMovieImg/1hm.jpg",
+	   			"srcImg":"./data/img/hotmovieImg/7hm.jpg",
 	   			"hotTitle":"蜘蛛侠：英雄远征",
 	   			"hotStarImg":"./src/assets/img/hotMovieImg/2.png",
 	   			"hotStarImg2":"./src/assets/img/hotMovieImg/3.png",
@@ -65,7 +65,7 @@
 	   		},
 	   		{
 	   			"id":7,
-	   			"srcImg":"./src/assets/img/hotMovieImg/1hm.jpg",
+	   			"srcImg":"./data/img/hotmovieImg/8hm.jpg",
 	   			"hotTitle":"蜘蛛侠：英雄远征",
 	   			"hotStarImg":"./src/assets/img/hotMovieImg/2.png",
 	   			"hotStarImg2":"./src/assets/img/hotMovieImg/3.png",
@@ -74,7 +74,7 @@
 	   		},
 	   		{
 	   			"id":8,
-	   			"srcImg":"./src/assets/img/hotMovieImg/1hm.jpg",
+	   			"srcImg":"./data/img/hotmovieImg/9hm.jpg",
 	   			"hotTitle":"蜘蛛侠：英雄远征",
 	   			"hotStarImg":"./src/assets/img/hotMovieImg/2.png",
 	   			"hotStarImg2":"./src/assets/img/hotMovieImg/3.png",
@@ -83,7 +83,7 @@
 	   		},
 	   		{
 	   			"id":9,
-	   			"srcImg":"./src/assets/img/hotMovieImg/1hm.jpg",
+	   			"srcImg":"./data/img/hotmovieImg/10hm.jpg",
 	   			"hotTitle":"蜘蛛侠：英雄远征",
 	   			"hotStarImg":"./src/assets/img/hotMovieImg/2.png",
 	   			"hotStarImg2":"./src/assets/img/hotMovieImg/3.png",
@@ -92,7 +92,7 @@
 	   		},
 	   		{
 	   			"id":10,
-	   			"srcImg":"./src/assets/img/hotMovieImg/1hm.jpg",
+	   			"srcImg":"./data/img/hotmovieImg/11hm.jpg",
 	   			"hotTitle":"蜘蛛侠：英雄远征",
 	   			"hotStarImg":"./src/assets/img/hotMovieImg/2.png",
 	   			"hotStarImg2":"./src/assets/img/hotMovieImg/3.png",
@@ -101,7 +101,7 @@
 	   		},
 	   		{
 	   			"id":11,
-	   			"srcImg":"./src/assets/img/hotMovieImg/1hm.jpg",
+	   			"srcImg":"./data/img/hotmovieImg/12hm.jpg",
 	   			"hotTitle":"蜘蛛侠：英雄远征",
 	   			"hotStarImg":"./src/assets/img/hotMovieImg/2.png",
 	   			"hotStarImg2":"./src/assets/img/hotMovieImg/3.png",
