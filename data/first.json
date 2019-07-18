@@ -1,0 +1,58 @@
+{
+	"list":[
+	  	{
+	  		"id":0,
+	  		"mainPic":"./src/assets/img/indexImg/threePic/1.jpg",
+	  		"asidePic1":"./src/assets/img/indexImg/threePic/2.jpg",
+	  		"asidePic2":"./src/assets/img/indexImg/threePic/3.jpg",
+	  		"title":"中国街头的「中老年审美」，比年轻人有趣多了",
+	  		"contents":"前段时间偶然在豆瓣上看到@aged_head 拍摄的中老年街拍，觉得很有意思。和他豆油勾搭上，进行了一场采访。 意外的是他作为摄影师，文字竟然写得这么好。我常在晚上收到他发来的照片及一小段文字，花两分钟看完，往往回味无穷，仿佛像看了部微小说一般。周周末说这场项目已进行了两年半，但苦于一直“没人看到”。希望这次小小的曝光，能让他的作品更多地被看到吧～ 以下是正文。 （ps：这篇文章是在“看理想”上首发，我是那篇文章的作者，每次在文末也有强调滴，所以看到的热心朋...",					
+	  		"author":"提图"
+	  	},				
+	  	{
+	  		"id":1,
+	  		"mainPic":"./src/assets/img/indexImg/threePic/4.jpg",
+	  		"asidePic1":"./src/assets/img/indexImg/threePic/5.jpg",
+	  		"asidePic2":"./src/assets/img/indexImg/threePic/6.jpg",
+	  		"title":"Dear Tony～家猫晶晶的加国兄弟",
+	  		"contents":"忽如一夜春风来，我认识的几个女生男生都养起了猫。我从大学开始就特别想有只猫，无奈一直在找自己的路上渐行渐远，能养猫的日子恐怕是遥遥无期了。不过，三年前在卡村我曾经也算“养”过一只猫。谨以此文纪念家猫晶晶的加国兄弟Tony。 我的德国房东能找到我这么好的租客，很⼤程度上应该感谢她的猫Tony。 三年前这个时候，经历⽆数波折后我的签证终于好了，我还是不能松⼝气，⻢不停蹄地上网找房子。吊诡的是我发了⽆数邮件给未来的房东们，只有这个德国⼥人回复得很...",					
+	  		"author":"种南瓜的菠萝"
+	  	},
+	  	{
+	  		"id":2,
+	  		"mainPic":"./src/assets/img/indexImg/threePic/7.jpg",
+	  		"asidePic1":"./src/assets/img/indexImg/threePic/8.jpg",
+	  		"asidePic2":"./src/assets/img/indexImg/threePic/9.jpg",
+	  		"title":"名古屋的玩具店",
+	  		"contents":"刚刚结束名古屋之行，5天4晚，对于这个城市算是一趟很充裕的旅行了。 名古屋是日本人口第四多的城市，整体感觉和大阪差不多，没有任何特色，景点也很乏味，真是一座无聊的城市。不过机票便宜，住宿也便宜，商场药妆也一应具全，所以还是会有很多中国人选择来这里玩。 这次选择了早进晚出的飞机，到达预定酒店放好行李后第一站便是大须商店街。搭乘鹤舞线到大须观音站下，出来走100米左右就是日本三大观音道场之一的宝生院了，旁边便是大须仁王门通商店街了。 大须商店街400年前就已...",					
+	  		"author":"T猫T"
+	  	},
+	  	{
+	  		"id":3,
+	  		"mainPic":"./src/assets/img/indexImg/threePic/10.jpg",
+	  		"asidePic1":"./src/assets/img/indexImg/threePic/11.jpg",
+	  		"asidePic2":"./src/assets/img/indexImg/threePic/12.jpg",
+	  		"title":"在凤凰花开的季节，赴一场十年之约",
+	  		"contents":"厦大凤凰花花开两季，一季老生走，一季新生来。这一季的凤凰花开，不仅送走了19届的毕业生，也迎来了我们09届化学系的毕业10周年聚会。 年初的时候大家就在群里嚷嚷，今年要聚会。几次讨论之后，最终留校任教的嘉嘉同学，主动当起筹备组牵头人，组织其他5个留校同学，给我们准备了一场温馨欢乐的10周年返校聚会。 从聚会时间到logo的设计，大家都表现出极大的参与热情，最终的效果也是出奇的好，大家都玩得很开心，各有收获地重新回到自己的岗位。 从看到服装的第一眼，我就感觉，...",					
+	  		"author":"茧"
+	  	},
+	  	{
+	  		"id":4,
+	  		"mainPic":"",
+	  		"asidePic1":"",
+	  		"asidePic2":"",
+	  		"title":"筋疲力尽",
+	  		"contents":"人的认知都是有局限的。 当我们二人新婚燕尔，搬进五环外一间充满阳光的新居时，感到自己就生活在天堂一样。 世界是无聊的，但北京不会。 女人是庸俗的，但艾米不会。 男人是苦逼的，但我不会。 （最后发现，一切都该发生的都会发生，只有数学不会。因为数学不会就是不会。） 我跟艾米是在资料馆排队买电影票的时候认识的，我们都热爱文艺。 使我们结缘的那一场电影是戈达尔的《筋疲力尽》，因此我们会在各种时候播放这部电影来纪念我们的相识：求婚时、单身夜时、婚礼时、结婚纪念...",					
+	  		"author":"土呆"
+	  	},
+	  	{
+	  		"id":5,
+	  		"mainPic":"./src/assets/img/indexImg/threePic/4.jpg",
+	  		"asidePic1":"./src/assets/img/indexImg/threePic/5.jpg",
+	  		"asidePic2":"./src/assets/img/indexImg/threePic/6.jpg",
+	  		"title":"Dear Tony～家猫晶晶的加国兄弟",
+	  		"contents":"",					
+	  		"author":"提图"
+	  	}
+	  ]
+}

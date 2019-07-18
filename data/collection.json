@@ -1,0 +1,209 @@
+{
+	"collectlist":[
+		{
+			"id":0,
+			"title":"豆瓣影人PRO大师课"
+		},
+		{
+			"id":1,
+			"title":"限时特价"
+		},
+		{
+			"id":2,
+			"title":"青椒学院"
+		},
+		{
+			"id":3,
+			"title":"大咖驾到"
+		},
+		{
+			"id":4,
+			"title":"精品畅销"
+		},
+		{
+			"id":5,
+			"title":"心理情感"
+		},
+		{
+			"id":6,
+			"title":"文学艺术"
+		},
+		{
+			"id":7,
+			"title":"社科人文"
+		},
+		{
+			"id":8,
+			"title":"观影指南"
+		},
+		{
+			"id":9,
+			"title":"生活美学"
+		}
+	],
+	"collectlist2":[
+		{
+			"id":0,
+			"title":"豆瓣影人PRO大师课",
+			"inlist2":[
+				{
+					"id":0,
+					"src":"./data/img/collectImg/professerImg/1pro.jpg",
+					"des":"好莱坞人像布光课——美恐摄影大师教你立刻出师",
+					"speaker":"主讲 苏克·梅德斯维奇",
+					"price":"299.00元",
+					"oldprice":""
+				},
+				{
+					"id":1,
+					"src":"./data/img/collectImg/professerImg/2pro.jpg",
+					"des":"好莱坞人像布光课——美恐摄影大师教你立刻出师",
+					"speaker":"主讲 苏克·梅德斯维奇",
+					"price":"299.00元",
+					"oldprice":""
+				},
+				{
+					"id":2,
+					"src":"./data/img/collectImg/professerImg/3pro.jpg",
+					"des":"好莱坞人像布光课——美恐摄影大师教你立刻出师",
+					"speaker":"主讲 苏克·梅德斯维奇",
+					"price":"299.00元",
+					"oldprice":""
+				},
+				{
+					"id":3,
+					"src":"./data/img/collectImg/professerImg/4pro.jpg",
+					"des":"好莱坞人像布光课——美恐摄影大师教你立刻出师",
+					"speaker":"主讲 苏克·梅德斯维奇",
+					"price":"299.00元",
+					"oldprice":""
+				},
+				{
+					"id":4,
+					"src":"./data/img/collectImg/professerImg/5pro.jpg",
+					"des":"好莱坞人像布光课——美恐摄影大师教你立刻出师",
+					"speaker":"主讲 苏克·梅德斯维奇",
+					"price":"299.00元",
+					"oldprice":""
+				},
+				{
+					"id":5,
+					"src":"./data/img/collectImg/professerImg/6pro.jpg",
+					"des":"好莱坞人像布光课——美恐摄影大师教你立刻出师",
+					"speaker":"主讲 苏克·梅德斯维奇",
+					"price":"299.00元",
+					"oldprice":""
+				}						
+			]
+			
+		},
+		{
+			"id":1,
+			"title":"限时特价",
+			"inlist2":[
+				{
+					"id":0,
+					"src":"./data/img/collectImg/1collect.jpg",
+					"des":"古今——杨照史记百讲（增订版）",
+					"speaker":"主讲 杨照",
+					"price":"128.00元",
+					"oldprice":"168.00元"
+				},
+				{
+					"id":1,
+					"src":"./data/img/collectImg/2collect.jpg",
+					"des":"古今——杨照史记百讲（增订版）",
+					"speaker":"主讲 杨照",
+					"price":"128.00元",
+					"oldprice":"168.00元"
+				},
+				{
+					"id":2,
+					"src":"./data/img/collectImg/3collect.jpg",
+					"des":"古今——杨照史记百讲（增订版）",
+					"speaker":"主讲 杨照",
+					"price":"128.00元",
+					"oldprice":"168.00元"
+				},
+				{
+					"id":3,
+					"src":"./data/img/collectImg/4collect.jpg",
+					"des":"古今——杨照史记百讲（增订版）",
+					"speaker":"主讲 杨照",
+					"price":"128.00元",
+					"oldprice":"168.00元"
+				},
+				{
+					"id":4,
+					"src":"./data/img/collectImg/5collect.jpg",
+					"des":"古今——杨照史记百讲（增订版）",
+					"speaker":"主讲 杨照",
+					"price":"128.00元",
+					"oldprice":"168.00元"
+				},
+				{
+					"id":5,
+					"src":"./data/img/collectImg/6collect.jpg",
+					"des":"古今——杨照史记百讲（增订版）",
+					"speaker":"主讲 杨照",
+					"price":"128.00元",
+					"oldprice":"168.00元"
+				}						
+			]
+		},
+		{
+			"id":2,
+			"title":"青椒学院",
+			"inlist2":[
+				{
+					"id":0,
+					"src":"./data/img/collectImg/collegeImg/1college.jpg",
+					"des":"好莱坞人像布光课——美恐摄影大师教你立刻出师",
+					"speaker":"主讲 苏克·梅德斯维奇",
+					"price":"299.00元",
+					"oldprice":""
+				},
+				{
+					"id":1,
+					"src":"./data/img/collectImg/collegeImg/2college.jpg",
+					"des":"好莱坞人像布光课——美恐摄影大师教你立刻出师",
+					"speaker":"主讲 苏克·梅德斯维奇",
+					"price":"299.00元",
+					"oldprice":""
+				},
+				{
+					"id":2,
+					"src":"./data/img/collectImg/collegeImg/3college.jpg",
+					"des":"好莱坞人像布光课——美恐摄影大师教你立刻出师",
+					"speaker":"主讲 苏克·梅德斯维奇",
+					"price":"299.00元",
+					"oldprice":""
+				},
+				{
+					"id":3,
+					"src":"./data/img/collectImg/collegeImg/4college.jpg",
+					"des":"好莱坞人像布光课——美恐摄影大师教你立刻出师",
+					"speaker":"主讲 苏克·梅德斯维奇",
+					"price":"299.00元",
+					"oldprice":""
+				},
+				{
+					"id":4,
+					"src":"./data/img/collectImg/collegeImg/5college.jpg",
+					"des":"好莱坞人像布光课——美恐摄影大师教你立刻出师",
+					"speaker":"主讲 苏克·梅德斯维奇",
+					"price":"299.00元",
+					"oldprice":""
+				},
+				{
+					"id":5,
+					"src":"./data/img/collectImg/collegeImg/5college.jpg",
+					"des":"好莱坞人像布光课——美恐摄影大师教你立刻出师",
+					"speaker":"主讲 苏克·梅德斯维奇",
+					"price":"299.00元",
+					"oldprice":""
+				}						
+			]
+		}
+	]
+}
